@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "woodores:block/warped_stem_ore_top",
+    "side": "woodores:block/warped_stem_ore"
+  }
+}

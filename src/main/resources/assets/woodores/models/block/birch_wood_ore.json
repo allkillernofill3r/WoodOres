@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "woodores:block/birch_wood_ore_top",
+    "side": "woodores:block/birch_wood_ore"
+  }
+}

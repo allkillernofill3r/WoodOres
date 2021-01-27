@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "woodores:block/crimson_stem_ore_top",
+    "side": "woodores:block/crimson_stem_ore"
+  }
+}
